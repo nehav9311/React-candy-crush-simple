@@ -1,2 +1,2 @@
-# React-candy-crush-simple
-Created with CodeSandbox
+Candy Crush in React
+Work in Progress
